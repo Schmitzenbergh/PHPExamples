@@ -1,0 +1,2 @@
+# OOExample
+This example shows the different approach between building a car in a procedural style versus an object oriented style. Many improvements are still possible, but the current setup is enough for an introduction.
