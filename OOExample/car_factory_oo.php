@@ -9,8 +9,7 @@
             new car("V8", "Winter", "Hatchback", "WolksVagen", new colour( "Red", "Metallic")),
             new car("V6", "Summer", "Station", "Tesla", new colour( "black", "Matte")),
             new car("V2", "Monster Truck", "City Car", "Mini", new colour( "Rainbow", "Glitter")),
-            new car("Wankel", "All Season", "Limo", "Hando", new colour( "Black", "Matte")),
-            new car("Diesel", "Unbreakable", "Crabby Patty", "Krusty Crab", new colour("number 9", "large"))
+            new car("Wankel", "All Season", "Limo", "Hando", new colour( "Black", "Matte"))
     );
 
     function carPrinter($carArray){

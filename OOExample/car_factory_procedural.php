@@ -14,9 +14,6 @@ $brand2= "Hando";
 $body2_colour = "Black";
 $body2_colour_property = "Matte";
 
-
-
-
 function printCar($engine, $wheels, $model, $brand, $body_colour, $body_colour_property){
     $return = "===Car=== <br>";
     $return .= "Engine: {$engine} <br>";

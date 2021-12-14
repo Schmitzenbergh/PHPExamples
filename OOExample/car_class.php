@@ -7,7 +7,6 @@ class car
     private $model;
     private $brand;
     private $colour;
-    private $radio;
 
     /**
      * car constructor.
@@ -24,7 +23,6 @@ class car
         $this->model = $model;
         $this->brand = $brand;
         $this->colour = $colour;
-        $this->radio = $radio;
     }
 
     /**
@@ -39,7 +37,6 @@ class car
         $return .= "Brand: {$this->brand} <br>";
         $return .= "Colour: {$this->colour->describeColour()} <br>";
         $return .= "The radio is {$this->radio} <br>";
-
         return $return;
     }
 
@@ -56,7 +53,7 @@ class car
      */
     public function setWheels(string $wheels)
     {
-        if($wheels == "winter" || $wheels =="summer")
+        if ($wheels == "winter" || $wheels == "summer")
             $this->wheels = $wheels;
     }
 

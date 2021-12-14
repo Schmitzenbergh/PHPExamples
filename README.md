@@ -1,5 +1,5 @@
 # PHPExamples
-A repository with various small PHP projects that explain techniques related to the PHP course on NHL-Stenden Hogeschool the Netherlands. 
+A repository with various small PHP projects that explain techniques related to the PHP courses on NHL-Stenden Hogeschool the Netherlands. 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This code is for educational purposes only.
@@ -13,7 +13,7 @@ The following steps will get you up and runnning with the example project:
 ```
 git clone https://github.com/Schmitzenbergh/PHPExamples.git
 ```
-2. point your browser to [localhost](localhost) or [127.0.0.1](127.0.0.1) and navigate to the folder in which you cloned the example. If this was the root of the webserver, the folder will be `/PHPExamples`.
+2. point your browser to [localhost](http://localhost) or [127.0.0.1](http://127.0.0.1) and navigate to the folder in which you cloned the example. If this was the root of the webserver, the folder will be `/PHPExamples`.
 
 In the end you should have a multitude of projects containing one or more examples regarding discussed PHP topics.
 
